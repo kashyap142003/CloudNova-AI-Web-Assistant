@@ -1,0 +1,20 @@
+Getting Started:
+1. Create an account
+2. Verify your email
+3. Set up your company profile
+4. Import contacts
+5. Create your first sales pipeline
+
+Managing Contacts:
+- Add contacts manually or import via CSV
+- Assign contacts to team members
+- Track communication history
+
+Sales Pipelines:
+- Create custom stages
+- Move deals via drag-and-drop
+- Set automated reminders
+
+Reports:
+- View sales performance metrics
+- Export reports as CSV or PDF

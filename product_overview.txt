@@ -1,0 +1,20 @@
+CloudNova CRM is a cloud-based customer relationship management platform that centralizes customer data, automates sales workflows, and provides actionable insights through AI-powered analytics.
+
+Key Features:
+- Lead & Contact Management
+- Sales Pipeline Tracking
+- Automated Follow-ups
+- Email & Calendar Integration
+- Team Collaboration Tools
+- AI Sales Insights
+- Custom Dashboards & Reports
+
+CloudNova is web-based and accessible through modern browsers. A mobile-responsive interface allows usage on tablets and smartphones.
+
+Primary Users:
+- Sales teams
+- Account managers
+- Customer success teams
+- Small business owners
+
+CloudNova is optimized for fast onboarding, typically taking less than 30 minutes for new teams.

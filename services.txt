@@ -1,0 +1,23 @@
+CloudNova offers the following services:
+
+1. CRM Software Subscription
+   - Access to CloudNova CRM platform
+   - Continuous feature updates
+   - Secure cloud hosting
+
+2. AI Sales Assistant
+   - Automated lead scoring
+   - Deal probability predictions
+   - Sales recommendations based on historical data
+
+3. Data Migration Assistance
+   - Import from spreadsheets or other CRMs
+   - Contact and deal data validation
+
+4. Customer Support Services
+   - Email and chat support
+   - Priority support for Pro and Business plans
+
+5. Training & Onboarding
+   - Self-serve onboarding guides
+   - Live onboarding sessions for enterprise clients

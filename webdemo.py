@@ -8,10 +8,7 @@ from langchain_core.prompts import PromptTemplate
 from langchain_core.output_parsers import StrOutputParser
 from langchain_core.runnables import RunnablePassthrough
 
-try:
-    OPENAI_API_KEY = st.secrets["OPENAI_API_KEY"]
-except:
-    from config import OPENAI_API_KEY
+OPENAI_API_KEY = st.secrets["OPENAI_API_KEY"]
 
 st.set_page_config(page_title="CloudNova AI Assistant")
 st.title("CloudNova AI Web Assistant")

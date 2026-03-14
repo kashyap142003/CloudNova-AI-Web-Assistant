@@ -1,0 +1,14 @@
+Q: Is CloudNova a real company?
+A: CloudNova Systems, Inc. is a fictional company created for demonstration, educational, and portfolio purposes.
+
+Q: Do I need technical skills to use CloudNova CRM?
+A: No. CloudNova is designed for non-technical users.
+
+Q: Can I import data from another CRM?
+A: Yes. CloudNova supports CSV imports and guided migration.
+
+Q: Is my data secure?
+A: Yes. CloudNova follows industry-standard security practices including encryption and access control.
+
+Q: Does CloudNova offer customer support?
+A: Yes. Support availability depends on your pricing plan.

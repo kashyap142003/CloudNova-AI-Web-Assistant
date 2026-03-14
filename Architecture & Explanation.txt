@@ -1,0 +1,30 @@
+#Architecture of CloudNova AI Website Assistant
+"""
+User
+  ↓
+Streamlit UI
+  ↓
+RAG Pipeline
+  ↓
+Retriever (ChromaDB)
+  ↓
+Prompt + LLM
+  ↓
+Answer back to User
+"""
+
+
+
+## Architecture Overview
+
+"""The CloudNova AI Website Assistant follows a Retrieval-Augmented Generation (RAG) architecture to ensure accurate, context-aware responses.
+
+1. The user interacts with the assistant through a Streamlit-based web UI.
+2. User queries are sent to a RAG pipeline implemented using LangChain.
+3. The pipeline retrieves relevant information from a ChromaDB vector store using MMR-based similarity search.
+4. Retrieved content is injected into a controlled prompt to prevent hallucination.
+5. The LLM generates a response strictly based on the retrieved context.
+6. If no relevant context is found, the system returns a safe fallback response instead of generating an answer.
+
+This architecture ensures reliability, scalability, and production-readiness while minimizing incorrect or out-of-scope responses.
+"""

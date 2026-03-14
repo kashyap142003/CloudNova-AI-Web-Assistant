@@ -1,0 +1,18 @@
+# CloudNova AI Assistant - LlamaIndex Version
+# Install: pip install -r requirements_llamaindex.txt
+
+# Core Framework
+llama-index>=0.10.0
+
+# LLM & Embeddings Integration
+llama-index-llms-openai>=0.1.0
+llama-index-embeddings-openai>=0.1.0
+
+# Web Interface
+streamlit>=1.30.0
+
+# Note: LlamaIndex uses its own vector store by default
+# For production, you might want to add:
+# llama-index-vector-stores-chroma  (ChromaDB)
+# llama-index-vector-stores-pinecone  (Pinecone)
+# llama-index-vector-stores-qdrant  (Qdrant)

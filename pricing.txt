@@ -1,0 +1,28 @@
+CloudNova Pricing Plans (USD):
+
+Starter Plan
+- $19 per user per month
+- Up to 1,000 contacts
+- Basic CRM features
+- Email integration
+- Standard support
+
+Pro Plan
+- $49 per user per month
+- Up to 10,000 contacts
+- Automation workflows
+- AI lead scoring
+- Custom dashboards
+- Priority support
+
+Business Plan
+- $99 per user per month
+- Unlimited contacts
+- Advanced AI insights
+- Team performance analytics
+- Role-based access control
+- Dedicated account manager
+
+Annual billing offers a 20% discount on all plans.
+
+A 14-day free trial is available with no credit card required.
